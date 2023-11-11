@@ -9,7 +9,6 @@ function Drawer() {
 
       <div className="items">
         <div className="cartItem d-flex align-center mb-20">
-          {/* <img className="mr-20" width={70} height={70} src="/img/sneakers/2.jpg" alt="sneakers"/> */}
           <div style={{
             backgroundImage: 'url(/img/sneakers/2.jpg)'
           }} className="cartItemImg">
@@ -23,7 +22,6 @@ function Drawer() {
         </div>
 
         <div className="cartItem d-flex align-center mb-20">
-          {/* <img className="mr-20" width={70} height={70} src="/img/sneakers/2.jpg" alt="sneakers"/> */}
           <div style={{
             backgroundImage: 'url(/img/sneakers/4.jpg)'
           }} className="cartItemImg">
